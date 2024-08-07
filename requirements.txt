@@ -1,0 +1,4 @@
+dnspython
+tabulate
+pyyaml
+colorama

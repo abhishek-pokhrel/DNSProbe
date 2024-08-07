@@ -1,0 +1,10 @@
+log_level: INFO
+dns_server: 8.8.8.8
+record_types:
+  - A
+  - AAAA
+  - CNAME
+  - MX
+  - NS
+  - SOA
+  - TXT
